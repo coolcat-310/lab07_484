@@ -1,0 +1,43 @@
+body{
+    font-family: museo_sans_300,Verdana,Tahoma,"DejaVu Sans",sans-serif;
+}
+
+form{
+    border: solid 1px #A9A8A9;
+    padding: 4%;
+}
+
+textarea{
+    width: 95%;
+}
+
+label{
+    margin-top: 5%;
+}
+
+.col-md-4{
+    margin: 3%;
+    border: solid 7px #BEC6C3;
+    padding: 5%;
+}
+
+.red{
+    color:red;
+}
+
+#count{
+    width: 75%;
+}
+
+#submit2 {
+    margin: 3% 0 5% 5%;
+    color: black;
+    background-color: white;
+    font-weight: bold;
+}
+
+#fullName,#department, #id, #hire,#total{
+    font-size: medium;
+}
+
+
